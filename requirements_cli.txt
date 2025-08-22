@@ -1,0 +1,11 @@
+# CLI Markdown Chatbot Requirements
+# Core dependencies for the CLI-based markdown document chatbot
+
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-groq>=0.1.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+fastapi>=0.116.1
+uvicorn>=0.22.2
+python-multipart>=0.0.18
